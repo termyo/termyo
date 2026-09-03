@@ -1,3 +1,3 @@
-## Hello world
+## Hello world.
 
 Here I contribute to open source.
